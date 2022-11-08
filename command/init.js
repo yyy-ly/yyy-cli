@@ -18,7 +18,7 @@ module.exports = () => {
     let branch;
     clear();
     // 定制酷炫CLI头部
-    console.log(chalk.pink(figlet.textSync('YYY-CLI', {
+    console.log(chalk.yellow(figlet.textSync('YYY-CLI', {
         horizontalLayout: 'full'
     })));
     inquirer.prompt([
