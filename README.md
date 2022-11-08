@@ -1,4 +1,4 @@
-# xman-cli
+# yyy-cli
 
 #### 介绍
 web通用脚手架工具
@@ -12,37 +12,37 @@ npm install -g
 查看基本命令
 
 ```
-xman
+yyy
 ```
 查看当前cli版本
 ```
-xman -v
+yyy -v
 // 或
-xman --version
+yyy --version
 ```
 
 初始化项目模板
 ```
-xman init
+yyy init
 ```
 
 检查cli新版本
 ```
-xman upgrade
+yyy upgrade
 ```
 
 添加模板项目
 ```
-xman add
+yyy add
 ```
 
 删除模板项目
 ```
-xman delete
+yyy delete
 ```
 展示模板项目列表
 ```
-xman list
+yyy list
 ```
 
 

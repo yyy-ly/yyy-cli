@@ -1,0 +1,20 @@
+{
+    "templates": {
+        "xman-manage": {
+            "url": "https://git@github.com:yyy-ly/yyy-cli.git",
+            "branch": "master"
+        },
+        "xman-web": {
+            "url": "https://git@github.com:yyy-ly/yyy-cli.git",
+            "branch": "master"
+        },
+        "xman-mobile": {
+            "url": "https://git@github.com:yyy-ly/yyy-cli.git",
+            "branch": "master"
+        },
+        "xman-npm-dev": {
+            "url": "https://git@github.com:yyy-ly/yyy-cli.git",
+            "branch": "master"
+        }
+    }
+}
